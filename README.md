@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/632726416.svg)](https://zenodo.org/badge/latestdoi/632726416)
+
 # SE Stopwords
 
 ## Overview
